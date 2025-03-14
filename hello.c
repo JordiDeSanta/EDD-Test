@@ -18,6 +18,5 @@ int main() {
 
     power(&n, e);
     printf("%i\n", n);
-    printf("%i\n", n);
 
 }
